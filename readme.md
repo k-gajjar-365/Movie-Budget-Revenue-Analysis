@@ -89,4 +89,10 @@ Ultimately, while budget is a strong predictor of revenue, **factors like genre,
 - Build predictive models for future releases
 ---
 
+## 📌 How to Run
 
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/k-gajjar-365/Movie-Budget-Revenue-Analysis.git
+   cd Movie-Budget-Revenue-Analysis
+   ```
